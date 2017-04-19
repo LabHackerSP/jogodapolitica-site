@@ -1,0 +1,173 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jogodapolitica.com.br" resolutions="1x,2x" timestamp="1490654074979">
+  <folder name="css">
+    <file name="site_global.css" crc="4289952232"/>
+    <file name="index.css" crc="3813043296" ref="index"/>
+    <file name="nomq_index.css" crc="418232985" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="phone>index:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="jogo-da-política-favicon.ico" crc="4270617569" ref="phone>index"/>
+    <file name="logo-jogo50x48.png" crc="4058503072" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-jogo50x48_2x.png" crc="309809131" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube-logo.svg" crc="4175370573" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube-logo_poster_.png" crc="17945359" ref="phone>index"/>
+    <file name="facebook-letter-logo.svg" crc="4063079061" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-letter-logo_poster_.png" crc="4202598315" ref="phone>index"/>
+    <file name="u1635-4.png" crc="4011212985" ref="phone>index"/>
+    <file name="u1635-4_2x.png" crc="424426556" ref="phone>index"/>
+    <file name="jogo-executivo.png" crc="4178389302" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jogo-executivo158x227.png" crc="4178389302" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jogo-legislativo.png" crc="3788523087" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jogo-judiciario.png" crc="431469501" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fundo-borajogar.png" crc="3868683361" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1777-4.png" crc="3877852003" ref="phone>index"/>
+    <file name="u1777-4_2x.png" crc="471984564" ref="phone>index"/>
+    <file name="14124428_1804658886415388_5249585640974929798_o-u1762-fr.jpg" crc="215521938" ref="phone>index"/>
+    <file name="14124428_1804658886415388_5249585640974929798_o-u1762-fr_2x.jpg" crc="120740842" ref="phone>index"/>
+    <file name="u1766-4.png" crc="4008244677" ref="phone>index"/>
+    <file name="u1766-4_2x.png" crc="3888731514" ref="phone>index"/>
+    <file name="u1679-6.png" crc="327608838" ref="phone>index"/>
+    <file name="u1679-6_2x.png" crc="4178738095" ref="phone>index"/>
+    <file name="u3703-4.png" crc="3820432279" ref="phone>index"/>
+    <file name="u3703-4_2x.png" crc="4030068319" ref="phone>index"/>
+    <file name="logo-enois.png" crc="495127184" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-lab.png" crc="4209436819" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-lab_2x.png" crc="4209436819" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-sonho.png" crc="531174527" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-sonho_2x.png" crc="516013791" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-jogo.png" crc="309809131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u323-4.png" crc="4011212985" ref="index"/>
+    <file name="u323-4_2x.png" crc="424426556" ref="index"/>
+    <file name="14124428_1804658886415388_5249585640974929798_o.jpg" crc="24651843" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u562-4.png" crc="439571439" ref="index"/>
+    <file name="u562-4_2x.png" crc="4051779058" ref="index"/>
+    <file name="jogo-executivo159x230.png" crc="4178389302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u425-4.png" crc="4184983199" ref="index"/>
+    <file name="u425-4_2x.png" crc="3781717362" ref="index"/>
+    <file name="u873-4.png" crc="462089494" ref="index"/>
+    <file name="u873-4_2x.png" crc="193282497" ref="index"/>
+    <file name="u3190-4.png" crc="116756095" ref="index"/>
+    <file name="u3190-4_2x.png" crc="4172354670" ref="index"/>
+    <file name="u323-42.png" crc="4011212985" ref="index"/>
+    <file name="u323-4_2x2.png" crc="424426556" ref="index"/>
+    <file name="jogo-executivo158x229.png" crc="4178389302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u562-42.png" crc="439571439" ref="index"/>
+    <file name="u562-4_2x2.png" crc="4051779058" ref="index"/>
+    <file name="u873-42.png" crc="462089494" ref="index"/>
+    <file name="u873-4_2x2.png" crc="193282497" ref="index"/>
+    <file name="u425-42.png" crc="4184983199" ref="index"/>
+    <file name="u425-4_2x2.png" crc="3781717362" ref="index"/>
+    <file name="u3190-42.png" crc="116756095" ref="index"/>
+    <file name="u3190-4_2x2.png" crc="4172354670" ref="index"/>
+    <file name="u323-43.png" crc="4011212985" ref="index"/>
+    <file name="u323-4_2x3.png" crc="424426556" ref="index"/>
+    <file name="u562-43.png" crc="439571439" ref="index"/>
+    <file name="u562-4_2x3.png" crc="4051779058" ref="index"/>
+    <file name="u873-43.png" crc="462089494" ref="index"/>
+    <file name="u873-4_2x3.png" crc="193282497" ref="index"/>
+    <file name="u425-43.png" crc="4184983199" ref="index"/>
+    <file name="u425-4_2x3.png" crc="3781717362" ref="index"/>
+    <file name="u3190-43.png" crc="116756095" ref="index"/>
+    <file name="u3190-4_2x3.png" crc="4172354670" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="498563254" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4257960664" seo="true" mt="1490652887752" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="329795531" seo="true" mt="1490652849938" redirect="true"/>
+</manifest>
