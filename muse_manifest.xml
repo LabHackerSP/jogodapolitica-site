@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jogodapolitica.com.br" resolutions="1x,2x" timestamp="1490654074979">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jogodapolitica.com.br" resolutions="1x,2x" timestamp="1497030412934">
   <folder name="css">
-    <file name="site_global.css" crc="4289952232"/>
-    <file name="index.css" crc="3813043296" ref="index"/>
-    <file name="nomq_index.css" crc="418232985" ref="index"/>
+    <file name="site_global.css" crc="3964644724"/>
+    <file name="index.css" crc="15465334" ref="index"/>
+    <file name="nomq_index.css" crc="308269864" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -167,7 +167,7 @@
       <file name="index.css" crc="498563254" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4257960664" seo="true" mt="1490652887752" redirect="true"/>
+    <file name="index.html" crc="4285496881" seo="true" mt="1490652887752" redirect="true"/>
   </folder>
-  <file name="index.html" crc="329795531" seo="true" mt="1490652849938" redirect="true"/>
+  <file name="index.html" crc="4251282032" seo="true" mt="1497030207101" redirect="true"/>
 </manifest>
